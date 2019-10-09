@@ -3,7 +3,7 @@ package DZ9;
 public class Car {
     String color;
     String engine;
-    static  int count;
+    public static  int count;
     int a=10;
 
     public Car(String color, String engine) {
