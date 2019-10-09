@@ -1,3 +1,5 @@
+package DZ9;
+
 public class Outputs {
     public static void abc() {
         String s1 = new String("ABCD");

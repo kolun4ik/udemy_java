@@ -1,3 +1,5 @@
+package DZ9;
+
 public class Test2 {
     int a = 1;
     static int b = 2;

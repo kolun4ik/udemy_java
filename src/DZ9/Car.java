@@ -1,10 +1,12 @@
+package DZ9;
+
 public class Car {
     String color;
     String engine;
     static  int count;
     int a=10;
 
-    Car(String color, String engine) {
+    public Car(String color, String engine) {
         count++;
 //        this.count++; так тоже можно обратиться к static переменной
         //this означет, что переменная принадлежит к текущему объекту

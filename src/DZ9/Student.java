@@ -1,3 +1,5 @@
+package DZ9;
+
 public class Student {
 }
 

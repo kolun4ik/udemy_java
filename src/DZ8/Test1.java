@@ -1,3 +1,5 @@
+package DZ8;
+
 public class Test1 {
     public final int a = 10; // уже нигде не можем изменить значения
 

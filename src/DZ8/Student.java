@@ -1,3 +1,5 @@
+package DZ8;
+
 public class Student {
     String name;
     int course; // данная переменная инстанс переменная
@@ -8,7 +10,7 @@ public class Student {
         count++;
         name = name2;
         course = course2;
-        System.out.println("Student # " + count + " created.");
+        System.out.println("DZ8.Student # " + count + " created.");
     }
 
     public static void showCount() {
