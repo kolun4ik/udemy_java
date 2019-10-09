@@ -1,6 +1,6 @@
 public class Test1 {
     int a = 1;
-//    static int a = 2;
+    static int a = 2; // здесь возникнет ошибка компилятора, две переменные с одинаковым именем
 
     void abc(int a) {
         System.out.println(a);
