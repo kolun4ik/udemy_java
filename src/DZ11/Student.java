@@ -2,10 +2,10 @@ package DZ11;
 
 public class Student {
     public String name;
-    int course;
-    double grade; //оценка
+    public int course;
+    public double grade; //оценка
 
-    Student(String name, int course, double grade){
+    public Student(String name, int course, double grade){
         this.name = name;
         this.course = course;
         this.grade = grade;
